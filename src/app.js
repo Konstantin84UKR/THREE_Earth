@@ -209,7 +209,7 @@ function main(assets) {
 
 async function assetLoader(){
     let assets = {};
-    const ufonts = '/assets/fonts/optimer_regular.typeface.json';
+    const ufonts = './assets/fonts/optimer_regular.typeface.json';
     const urldiffuse = './assets/textures/earth/diffuse.png';
     const ubump = './assets/textures/earth/bump.png';
     const uspecular = './assets/textures/earth/specular.png';
