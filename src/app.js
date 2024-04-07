@@ -50,7 +50,7 @@ function main(assets) {
 
     const controls = new OrbitControls(camera, canvas);
     controls.enableDamping = true;
-    controls.enableRotate = false; 
+    //controls.enableRotate = false; 
 
 
     /** 
